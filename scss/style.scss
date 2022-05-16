@@ -7,8 +7,9 @@ $white: #fff;
 $black: #000000;
 $darken: #232931;
 
-$primary: #00FAD8;
+$primary: #ffbd39;
 $secondary: #a0f669;
+
 
 
 @mixin border-radius($radius) {
@@ -644,7 +645,6 @@ h1, h2, h3, h4, h5,
 		}
 	}
 }
-
 
 .hero-wrap{
 	width: 100%;
